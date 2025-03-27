@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning C#, Unity, ShaderGraph
 
-- ⚡ I also can do pixel arts
-<!--
--->
+- 💼 My commercial experience stack:
+  - .NET Core, .NET Framework, WinForms, WPF, Web API, Telegram API, Web Sockets, ASP.NET
+  - Git, GitLab, GitHub, Jenkins
+  - Jira, Confluence 
