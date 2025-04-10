@@ -2,9 +2,15 @@
 
 - 🔭 I’m currently working on small games you can play in browser.
   - Current project - [DarkForestSurvive](https://github.com/Bolshekh/DarkForestSurvive)
-  - [Published playable game](https://bolshekh.itch.io/platformer-game) 
+  - [Published playable game](https://bolshekh.itch.io/platformer-game)
+  - Participated in [B1T Jam](itch.io/jam/b1t-jam)
 
 - 🌱 I’m currently learning C#, Unity, ShaderGraph
+
+Published games =>
+
+<a href=https://bolshekh.itch.io/platformer-game><img src="https://img.itch.zone/aW1nLzE4OTI5MTE1LnBuZw==/315x250%23c/WctlKv.png"></a>
+<a href=https://bolshekh.itch.io/heartbeat-game><img src="https://img.itch.zone/aW1nLzIwNjM1MzIzLnBuZw==/315x250%23c/ZvK%2FIj.png"></a>
 
 - 💼 My commercial experience stack:
   - .NET Core, .NET Framework, WinForms, WPF, Web API, Telegram API, Web Sockets, ASP.NET
