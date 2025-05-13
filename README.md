@@ -9,9 +9,9 @@
 
 Published games =>
 
-<a href=https://bolshekh.itch.io/driver-license-exam-game><img src="https://img.itch.zone/aW1nLzIxMTUxNTg3LnBuZw==/315x250%23c/r%2BqEez.png"></a>
-<a href=https://bolshekh.itch.io/heartbeat-game><img src="https://img.itch.zone/aW1nLzIwNjM1MzIzLnBuZw==/315x250%23c/ZvK%2FIj.png"></a>
-<a href=https://bolshekh.itch.io/platformer-game><img src="https://img.itch.zone/aW1nLzE4OTI5MTE1LnBuZw==/315x250%23c/WctlKv.png"></a>
+<a href=https://bolshekh.itch.io/driver-license-exam-game><img src="https://img.itch.zone/aW1nLzIxMTUxNTg3LnBuZw==/315x250%23c/r%2BqEez.png" width=200px></a>
+<a href=https://bolshekh.itch.io/heartbeat-game><img src="https://img.itch.zone/aW1nLzIwNjM1MzIzLnBuZw==/315x250%23c/ZvK%2FIj.png" width=200px></a>
+<a href=https://bolshekh.itch.io/platformer-game><img src="https://img.itch.zone/aW1nLzE4OTI5MTE1LnBuZw==/315x250%23c/WctlKv.png" width=200px></a>
 
 - 💼 My commercial experience stack:
   - .NET Core, .NET Framework, WinForms, WPF, Web API, Telegram API, Web Sockets, ASP.NET
