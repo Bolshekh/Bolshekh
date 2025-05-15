@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on small games you can play in browser.
   - Current project - [DarkForestSurvive](https://github.com/Bolshekh/DarkForestSurvive)
-  - [Published playable game](https://bolshekh.itch.io/platformer-game)
+  - [Published playable game](https://bolshekh.itch.io/driver-license-exam-game)
   - Participated in [B1T Jam](itch.io/jam/b1t-jam)
 
 - 🌱 I’m currently learning C#, Unity, ShaderGraph
